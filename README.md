@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jean-B-Ramz
 - 👀 I’m interested in Data science, Bioinformatics, Statistics, Image Processing, Web and Desktop apps development.
-- 📫 How to reach me: jean.ramzgro@gmail.com
+- 📫 How to reach me: 17030685@gmail.com or at jean.ramzgro@gmail.com
 
 
 <!---
